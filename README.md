@@ -1,4 +1,4 @@
 # Weather
-Celcius
-Todo mal amigo
+Celcius = ( fahrenheit - 32) / 1,8;
+
 
